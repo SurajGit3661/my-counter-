@@ -25,7 +25,7 @@ function App() {
         color: isDark ? "#f0f0f0" : "#fff",
       }}
     >
-      <h1>HAPPY BIRTHDAY DEAR</h1>
+      <h1>HAPPY BIRTHDAY DEAR you </h1>
       <h2>Count: {count}</h2>
 
       {/* Theme Toggle */}
