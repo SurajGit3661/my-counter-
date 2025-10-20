@@ -25,11 +25,7 @@ function App() {
         color: isDark ? "#f0f0f0" : "#fff",
       }}
     >
-<<<<<<< HEAD
       <h1>My Counter web appicatiopn</h1>
-=======
-      <h1>My Counter web application</h1>
->>>>>>> be4e93e644152f35b0153896b37bd954b7b0b494
       <h2>Count: {count}</h2>
 
       {/* Theme Toggle */}
